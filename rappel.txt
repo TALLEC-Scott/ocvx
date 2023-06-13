@@ -1,0 +1,16 @@
+x* point critique de f:R*n->R
+Df(x*)= 0
+extremum local
+
+Matrice hessiene
+
+calculer les valuer propre
+le span etc
+
+citer moi 3 maniere de char un fonction convexe
+
+TD - Cours - Correction de TD sur moodle, il manque une correction exo geo
+
+exo geo tres similaire a ceux fait en cours
+
+pivot de guass, diago pas necessaire
